@@ -9,7 +9,7 @@ export default function App() {
     <StudioEditor
       style={{ flexGrow: 1 }}
       options={{
-        gjsOptions: { storageManager: true }, licenseKey: '5d36f7d81bf84c9eb42efe0cb302b53f805d027891044ebca25ce5135c5283f7',
+        gjsOptions: { storageManager: true }, licenseKey: '90d7e4491d014899aad17336f443391f309a0f8de91c481d9a7215d2b3236deb',
         //90d7e4491d014899aad17336f443391f309a0f8de91c481d9a7215d2b3236deb
         // ...
         plugins: [
